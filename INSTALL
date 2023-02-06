@@ -1,0 +1,9 @@
+Building Sudacoin
+
+See doc/readme-qt.rst for instructions on building Sudacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sudacoin.
+
+See doc/build-*.txt for instructions on building sudacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sudacoin.
